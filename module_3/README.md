@@ -91,6 +91,7 @@ The `ORDER BY` clause sorts the query results based on specified columns, either
 
 ## Saturday, Feb 8th, - In Class Agenda: 
 
-1) 🙌🏻 Share & Tell 
-2) 💃 Guest Speaker - [KeeNan Engstrom](https://www.linkedin.com/in/keenanengstrom/) - Tech-Mom Alumna - Business Intelligence Analyst  
+1) 🙌🏻 SQL Saturday 
+2) 👩🏻‍💻 Q&A + Look Ahead + Assignment Overview  
+3) 💃 Guest Speaker - [KeeNan Engstrom](https://www.linkedin.com/in/keenanengstrom/) - Tech-Mom Alumna - Business Intelligence Analyst  
 
