@@ -43,7 +43,7 @@ Or pick [another SQL resource](https://github.com/KelseyATaylor/Data-Tech-Moms-R
 
 _Estimated time to complete: 6 hours_
 
-- [ ] Complete Assignment 3 -> `module_3` -> `assignments` -> `README.md`
+- [x ] Complete Assignment 3 -> `module_3` -> `assignments` -> `README.md`
 
 
 
